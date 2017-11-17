@@ -1,15 +1,15 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+title: Terry Bryant | A theme from Jekyll
+email: dageda1991@163.com
+description: 一支穿云箭，千军万马来相见
+baseurl: "https://terrybryant.github.io/" # the subpath of your site, e.g. /blog
+url: "https://terrybryant.github.io/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+username: Terry
+user_description: Are you OK?
+disqus_username: none
 
 # Social Media
 # Remove the item if you don't need it
