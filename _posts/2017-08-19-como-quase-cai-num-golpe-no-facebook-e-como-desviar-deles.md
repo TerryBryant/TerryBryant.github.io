@@ -24,8 +24,6 @@ introduction: 客户就是你们的导师，不要老是找借口。
 
 ## 最后放几张图片
 
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
 ![placeholder](https://wx4.sinaimg.cn/mw1024/8bdebf64ly1fllhoy5nktj21kw23v7wh.jpg)
 ![placeholder](https://wx4.sinaimg.cn/mw1024/8bdebf64ly1fllhq713ecj21kw16otsr.jpg)
 
