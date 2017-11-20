@@ -3,7 +3,7 @@ title: Terry Bryant
 email: dageda1991@163.com
 description: 一支穿云箭，千军万马来相见
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://terrybryant.github.io/" # the base hostname & protocol for your site
+url: "https://terrybryant.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
@@ -39,6 +39,8 @@ links:
     url: /about/
   - title: Contact
     url: /contact/
+  - title: Feed
+    url: /feed/
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
