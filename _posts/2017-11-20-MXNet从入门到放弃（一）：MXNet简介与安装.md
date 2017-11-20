@@ -6,8 +6,9 @@ category: '博客'
 tags:
 - deep learning
 - MXNet
----
+
 introduction: 技术类博客的第一篇，从零开始学习MXNet，希望能坚持下去
+---
 
 > 与Tensorflow的庞大而缓慢、caffe复杂的依赖环境不同，MXNet具有轻量级、省显存的特点。
 
