@@ -39,8 +39,6 @@ links:
     url: /about/
   - title: Contact
     url: /contact/
-  - title: Feed
-    url: /feed/
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
