@@ -16,111 +16,24 @@ introduction: 技术类博客的第一篇，从零开始学习MXNet，希望能�
 
 某度目前还没有MXNet的词条，这里总结下从wiki上的内容，并结合自己的见解，简单介绍下MXNet框架。MXNet是一个较新的深度学习框架，它的特点包括支持多种语言接口（例如C++、Python、Matlab），支持多机器多GPU等等。与Tensorflow的庞大而缓慢、caffe复杂的依赖环境不同，MXNet具有轻量级、省显存的特点。
 
-前几个月，MXNet还增加了gluon接口，使得构建深度学习模型更加方便。就目前tensoflow越来越强势的局面，MXNet获得了亚马逊、微软、英特尔等大量企业的支持，在未来应该可以和tensoflow平分秋色，另外facebook推出的caffe2和pytroch组合起来，和前面两者应该会形成三足鼎立。
-
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
-
-Most of these elements are styled by browsers with few modifications on our part.
+前几个月，MXNet还增加了gluon接口，使得构建深度学习模型更加方便和灵活。目前在tensoflow越来越强势的情况下，MXNet获得了亚马逊、微软、英特尔等大量企业的支持，未来应该可以和tensoflow打个平手，另外facebook推出的caffe2和pytroch结合起来，和前面两者应该会形成三足鼎立的局面。
 
 # 二、为什么学MXNet
 
+随着Theano不再更新，渐渐地许多深度学习框架都会被淘汰，个人感觉最终只会剩下前面提到的几个巨头。tensorflow太大太笨重（不过最近试了下新出的eager模式，还比较灵活），caffe2目前还很不完善（caffe配置太麻烦），pytorch线上部署不友好。综合以上，我选择MXNet。
 
 # 三、如何学MXNet
 
-
+目前MXNet的作者之一李沐大神在大力推进MXNet的普及，总结如下几个学习资源网站：
+1、MXNet中文教程：http://zh.gluon.ai/index.html
+2、MXNet中文论坛：https://discuss.gluon.ai/
+3、李沐大神不定期（一般是周六）在斗鱼上会进行直播：https://www.douyu.com/1086863
+纸上得来终觉浅，绝知此事要躬行！
 
 # 四、MXNet安装
 
+MXNet的安装还是很简单的，参考：<a href="http://mxnet.incubator.apache.org/install/index.html">官网.</a>
+GPU版本的安装稍复杂一些，但其实配置好CUDA和Cudnn就行了。
 
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
 -----
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
