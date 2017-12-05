@@ -28,6 +28,7 @@ introduction: 技术类博客的第一篇，从零开始学习MXNet，希望能�
 - <a href="http://zh.gluon.ai/index.html">MXNet中文教程</a>
 - <a href="https://discuss.gluon.ai/">MXNet中文论坛</a>
 - 李沐大神不定期（一般是周六）在<a href="https://www.douyu.com/1086863">斗鱼</a>上会进行直播
+
 纸上得来终觉浅，绝知此事要躬行！
 
 # 四、MXNet安装
