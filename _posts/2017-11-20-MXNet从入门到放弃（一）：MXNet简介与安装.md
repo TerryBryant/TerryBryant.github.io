@@ -14,7 +14,9 @@ introduction: 技术类博客的第一篇，从零开始学习MXNet，希望能�
 
 # 一、MXNet简介
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+某度目前还没有MXNet的词条，这里总结下从wiki上的内容，并结合自己的见解，简单介绍下MXNet框架。MXNet是一个较新的深度学习框架，它的特点包括支持多种语言接口（例如C++、Python、Matlab），支持多机器多GPU等等。与Tensorflow的庞大而缓慢、caffe复杂的依赖环境不同，MXNet具有轻量级、省显存的特点。
+
+前几个月，MXNet还增加了gluon接口，使得构建深度学习模型更加方便。就目前tensoflow越来越强势的局面，MXNet获得了亚马逊、微软、英特尔等大量企业的支持，在未来应该可以和tensoflow平分秋色，另外facebook推出的caffe2和pytroch组合起来，和前面两者应该会形成三足鼎立。
 
 - **To bold text**, use `<strong>`.
 - *To italicize text*, use `<em>`.
@@ -27,13 +29,14 @@ Most of these elements are styled by browsers with few modifications on our part
 
 # 二、为什么学MXNet
 
+
 # 三、如何学MXNet
+
+
 
 # 四、MXNet安装
 
-#### Heading 4
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 
 ## Code
 
