@@ -25,14 +25,15 @@ introduction: 技术类博客的第一篇，从零开始学习MXNet，希望能�
 # 三、如何学MXNet
 
 目前MXNet的作者之一李沐大神在大力推进MXNet的普及，总结如下几个学习资源网站：
-- 1、<a href="http://zh.gluon.ai/index.html">MXNet中文教程</a>
-- 2、<a href="https://discuss.gluon.ai/">MXNet中文论坛</a>
-- 3、李沐大神不定期（一般是周六）在<a href="https://www.douyu.com/1086863">斗鱼</a>上会进行直播
+- <a href="http://zh.gluon.ai/index.html">MXNet中文教程</a>
+- <a href="https://discuss.gluon.ai/">MXNet中文论坛</a>
+- 李沐大神不定期（一般是周六）在<a href="https://www.douyu.com/1086863">斗鱼</a>上会进行直播
 纸上得来终觉浅，绝知此事要躬行！
 
 # 四、MXNet安装
 
 MXNet的安装还是很简单的，参考<a href="http://mxnet.incubator.apache.org/install/index.html">官网</a>
+
 GPU版本的安装稍复杂一些，但其实配置好CUDA和Cudnn就行了。
 
 
