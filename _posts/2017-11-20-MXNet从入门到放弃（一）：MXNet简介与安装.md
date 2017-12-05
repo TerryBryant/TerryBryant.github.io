@@ -14,7 +14,7 @@ introduction: 技术类博客的第一篇，从零开始学习MXNet，希望能�
 
 # 一、MXNet简介
 
-某度目前还没有MXNet的词条，这里总结下从wiki上的内容，并结合自己的见解，简单介绍下MXNet框架。MXNet是一个较新的深度学习框架，它的特点包括支持多种语言接口（例如C++、Python、Matlab），支持多机器多GPU等等。与Tensorflow的庞大而缓慢、caffe复杂的依赖环境不同，MXNet具有轻量级、省显存的特点。
+某度目前还没有MXNet的词条，这里总结下wiki上的内容，并结合自己的见解，简单介绍下MXNet框架。MXNet是一个较新的深度学习框架，它的特点包括支持多种语言接口（例如C++、Python、Matlab），支持多机器多GPU等等。与Tensorflow的庞大而缓慢、caffe复杂的依赖环境不同，MXNet具有轻量级、省显存的特点。
 
 前几个月，MXNet还增加了gluon接口，使得构建深度学习模型更加方便和灵活。目前在tensoflow越来越强势的情况下，MXNet获得了亚马逊、微软、英特尔等大量企业的支持，未来应该可以和tensoflow打个平手，另外facebook推出的caffe2和pytroch结合起来，和前面两者应该会形成三足鼎立的局面。
 
@@ -32,7 +32,7 @@ introduction: 技术类博客的第一篇，从零开始学习MXNet，希望能�
 
 # 四、MXNet安装
 
-MXNet的安装还是很简单的，参考：<a href="http://mxnet.incubator.apache.org/install/index.html">官网.</a>
+MXNet的安装还是很简单的，参考<a href="http://mxnet.incubator.apache.org/install/index.html">官网</a>
 GPU版本的安装稍复杂一些，但其实配置好CUDA和Cudnn就行了。
 
 
