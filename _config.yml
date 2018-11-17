@@ -14,8 +14,8 @@ headercolor: "#FFFFFF"
 
 # Tertiary Parameters
 github_username:  TerryBryant
-project_repository: terrybryant
-disqus_shortname: 
+project_repository:
+disqus_shortname:
 g-analytics: UA-75881392-1
 altmetric: true
 
