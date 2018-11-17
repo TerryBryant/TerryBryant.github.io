@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "About"
-description: "Why use Project Pages?"
+description: "A brief introduction of myself"
 header-img: "img/home-bg.jpg"
 ---
 
-Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
+“90后”北漂，性别男，从事深度学习相关工作。
 	
