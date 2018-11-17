@@ -13,8 +13,9 @@ headercolor: "#FFFFFF"
 #logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  TerryBryant
-project_repository:
+github_username: TerryBryant
+csdn_username: dageda1991
+weibo_username: 2346631012
 disqus_shortname:
 g-analytics: UA-75881392-1
 altmetric: true

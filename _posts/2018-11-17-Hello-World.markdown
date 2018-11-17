@@ -2,7 +2,7 @@
 layout:     post
 title:      Hello world
 author:     Terry Bryant
-tags: 		test post
+tags: 		test_post
 subtitle:  	
 category:  project1
 ---
