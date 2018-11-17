@@ -1,0 +1,37 @@
+---
+layout:     post
+title:      摆渡
+author:     Terry Bryant
+tags: 		心情
+subtitle:  	
+category:  project1
+---
+<!-- Start Writing Below in Markdown -->
+
+高中的时候，很喜欢的一首诗，搬到这里来吧。
+# 摆渡
+脚下的沙砾
+
+是破碎的原罪
+
+河的那边
+
+才是给你宽容的归宿
+
+灵魂有罪
+
+时光是摆渡
+
+命运是河
+
+寻找方向
+
+便是忏悔的过程
+
+当你踏上对岸的土地
+
+一切终将被原谅
+
+你是自己的天堂
+
+也是自己的地狱
