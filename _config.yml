@@ -1,7 +1,7 @@
 # Site settings
-title: Project Pages
+title: My homepage
 description: "An Integrated Scientific Blogging Template"
-url: "https://projectpages.github.io"
+url: "https://terrybryant.github.io"
 
 
 
@@ -13,7 +13,7 @@ headercolor: "#FFFFFF"
 logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
+github_username:  terrybryant
 project_repository: terrybryant
 disqus_shortname: terrybryant
 g-analytics: UA-75881392-1
